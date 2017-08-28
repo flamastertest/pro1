@@ -47,7 +47,7 @@ if(!isset($_SESSION['logged'])) {
 					<div class="tabs-wrapper">
 						<ul class="nav nav-tabs tabs-custom">
 							<li id="tab1" class="active"><a data-toggle="tab" href="#1">1. typ komina</a></li>
-							<li><a href="#2">2. rodzaj pustaka test2</a></li>
+							<li><a href="#2">2. rodzaj pustaka test3</a></li>
 							<li><a href="#3">3. średnica wkładu ceramicznego</a></li>
 							<li><a href="#4">4. wysokość komina</a></li>
 							<li><a href="#5">5. akcesoria</a></li>
